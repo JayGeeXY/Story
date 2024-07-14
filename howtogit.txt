@@ -1,0 +1,44 @@
+New terminal
+click on "+" sign and then on Git Bash --> $ sign per line in terminal
+
+>select default profile --> Git Bash
+
+
+ls: list items in directory
+ls -a: list items including hidden such as .git
+
+cd: change directory --> use Tab to auto-complete
+cd ~: root directory
+cd ..: going back one level
+
+mkdir: make new directory
+touch filename.txt: create file
+start filename.txt: open file
+code filename.txt: opens in VSC
+rm filename.txt: remove file
+pwd: current location with fullpath, print working diirectory
+rm *: remove every file in current directory
+rm -r foldername: remove directory and child componentes
+
+clear: clear terminal
+
+Alt-Key to change command at speccific point
+CTRL + A: go to beginning of line
+CTRL + E: go to end of line
+
+https://www.learnenough.com/command-line-tutorial
+
+
+git init: initialize local repo
+ls -a: show all items in working directory
+
+git config --global user.email "you@example.com": "cheshirecat2291@yahoo.com"
+git config --global user.name "Your Name": "Janina"
+
+
+git status: status of staging area
+git add filename: add to staging area
+git add .: add all current files with changes to staging area
+git commit -m "commit message"
+
+git log: log of commits incl. hashes
