@@ -1,0 +1,6 @@
+# ignore specific files
+secrets.txt
+secrets2.txt
+
+#ignore specific extensions
+*.log
