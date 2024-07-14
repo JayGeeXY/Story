@@ -42,3 +42,6 @@ git add .: add all current files with changes to staging area
 git commit -m "commit message"
 
 git log: log of commits incl. hashes
+
+git diff filename
+git checkout: revert/rollback to last version under version control
